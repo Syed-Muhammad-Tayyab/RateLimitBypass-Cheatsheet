@@ -1,12 +1,23 @@
-# Brute Force & Rate Limit
+<div align="center">
 
-**Author:** [Syed Muhammad Tayyab](https://github.com/Syed-Muhammad-Tayyab)
+# 🔓 Brute Force & Rate Limit
+
+### Compiled by [Syed Muhammad Tayyab](https://github.com/Syed-Muhammad-Tayyab)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Syed--Muhammad--Tayyab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-Muhammad-Tayyab)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202026-brightgreen?style=for-the-badge)
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logo=go&logoColor=white)
 ![ProxyChains](https://img.shields.io/badge/ProxyChains-2E8B57?style=for-the-badge)
 ![TLS/JA3](https://img.shields.io/badge/TLS-JA3%20Fingerprinting-4B8BBE?style=for-the-badge)
 ![IPv6](https://img.shields.io/badge/IPv6-Rotation-FF4500?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
 
 ## Summary
 
@@ -153,3 +164,11 @@ Many cloud providers, such as Vultr, offer /64 IPv6 ranges, which provide a vast
 * [Burp Intruder attack types - PortSwigger - August 19, 2025](https://web.archive.org/web/20260124024947/https://portswigger.net/burp/documentation/desktop/tools/intruder/configure-attack/attack-types)
 * [Detecting and annoying Burp users - Julien Voisin -  May 3, 2021](https://web.archive.org/web/20260102160139/https://dustri.org/b/detecting-and-annoying-burp-users.html)
 * [OmniProx: Multi-Cloud IP Rotation Made Simple - Andy Gill - September 28, 2025](https://web.archive.org/web/20260215082718/https://blog.zsec.uk/omniprox/)
+
+---
+
+<div align="center">
+
+Made with 🔐 by [Syed Muhammad Tayyab](https://github.com/Syed-Muhammad-Tayyab)
+
+</div>
